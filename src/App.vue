@@ -1,9 +1,10 @@
 <template>
-  <v-app>
-    <router-view />
-  </v-app>
+  <VApp>
+    <RouterView />
+    <TcgpSnackbar />
+  </VApp>
 </template>
 
 <script lang="ts" setup>
-  //
+//
 </script>
