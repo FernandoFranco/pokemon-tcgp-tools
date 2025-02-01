@@ -1,38 +1,40 @@
-name: Deploy Vue.js App to GitHub Pages
+name: Publish Pages
 
 on:
   push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+    branches: [main]
 
 jobs:
-  build-and-deploy:
+  build:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repositório
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Instalar Node.js
+      - name: Setup NodeJS
         uses: actions/setup-node@v4
         with:
-          node-version: 22
-          cache: "yarn"
+          node-version: 20
 
-      - name: Definir VITE_BASE_URL automaticamente
-        run: echo "VITE_BASE_URL=/${GITHUB_REPOSITORY#*/}/" >> .env.production
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        id: setup
 
-      - name: Instalar dependências
-        run: yarn install --frozen-lockfile
+      - name: Build Pages
+        run: |
+          yarn install --frozen-lockfile
+          yarn build
+        env:
+          VITE_BASE_URL: "${{steps.setup.outputs.base_url}}"
 
-      - name: Construir projeto
-        run: yarn build
-
-      - name: Deploy para GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          branch: gh-pages
-          folder: dist
+          path: dist
+
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4
