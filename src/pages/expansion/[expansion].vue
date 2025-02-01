@@ -66,24 +66,7 @@
 
     <VDataTableVirtual
       v-model="myCards"
-      :headers="[
-        {
-          title: 'ID',
-          value: 'id',
-        },
-        {
-          title: 'Name',
-          value: 'name',
-        },
-        {
-          title: 'Pack',
-          value: 'packId',
-        },
-        {
-          title: 'Rarity',
-          value: 'rarity',
-        },
-      ]"
+      :headers="tableHeaders"
       :items="cards"
       :item-value="(card) => card.id"
       show-select
@@ -117,6 +100,21 @@ import type { Pack } from "@/db/models/pack.model";
 import { useRoute } from "vue-router";
 import { VChip } from "vuetify/components";
 
+const CUSTOM_HEADERS: Record<string, { title: string; value: string }> = {
+  pack: {
+    title: "Pack",
+    value: "packId",
+  },
+  rarity: {
+    title: "Rarity",
+    value: "rarity",
+  },
+  from: {
+    title: "From",
+    value: "from",
+  },
+};
+
 const baseUrl = useBaseUrl();
 const route = useRoute<"/expansion/[expansion]">();
 
@@ -128,6 +126,23 @@ const { myCards } = useTcgpMyCards();
 const myTotalCardsFromExpansion = computed(
   () => cards.value.filter((card) => myCards.value.includes(card.id)).length
 );
+
+const tableHeaders = computed(() => {
+  return [
+    {
+      title: "ID",
+      value: "id",
+    },
+    {
+      title: "Name",
+      value: "name",
+    },
+  ].concat(
+    (
+      expansion.value?.headers.map((header) => CUSTOM_HEADERS[header]) ?? []
+    ).filter((header) => !!header)
+  );
+});
 
 function getPackFromId(id?: string): Pack | undefined {
   if (!id) return undefined;

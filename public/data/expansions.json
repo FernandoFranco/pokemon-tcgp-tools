@@ -1,18 +1,22 @@
 [
   {
     "id": "A1",
-    "name": "Genetic Apex"
+    "name": "Genetic Apex",
+    "headers": ["pack", "rarity"]
   },
   {
     "id": "P-A",
-    "name": "PROMO-A"
+    "name": "PROMO-A",
+    "headers": ["from"]
   },
   {
     "id": "A1a",
-    "name": "Mythical Island"
+    "name": "Mythical Island",
+    "headers": ["pack", "rarity"]
   },
   {
     "id": "A2",
-    "name": "Space-Time Smackdown"
+    "name": "Space-Time Smackdown",
+    "headers": ["pack", "rarity"]
   }
 ]
