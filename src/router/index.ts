@@ -33,8 +33,12 @@ router.isReady().then(() => {
   localStorage.removeItem("vuetify:dynamic-reload");
 
   if (window.location.search.includes("redirect")) {
-    const newRoute = window.location.search.split("redirect=")[1];
-    router.push(decodeURIComponent(newRoute));
+    const redirect = window.location.search.split("redirect=")[1];
+    let newRoute = decodeURIComponent(redirect);
+    if (newRoute.startsWith("/")) {
+      newRoute = newRoute.slice(1);
+    }
+    router.replace(newRoute);
   }
 });
 
