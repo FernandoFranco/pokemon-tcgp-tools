@@ -11,9 +11,14 @@ import Vuetify, { transformAssetUrls } from "vite-plugin-vuetify";
 import { fileURLToPath, URL } from "node:url";
 import { defineConfig } from "vite";
 
+let base = process.env.VITE_BASE_URL;
+if (base && !base.endsWith("/")) {
+  base += "/";
+}
+
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: process.env.VITE_BASE_URL,
+  base,
   plugins: [
     VueRouter({
       dts: "src/typed-router.d.ts",
