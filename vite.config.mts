@@ -22,6 +22,14 @@ if (base && !base.endsWith("/")) {
 // https://vitejs.dev/config/
 export default defineConfig({
   base,
+  build: {
+    rollupOptions: {
+      input: {
+        main: "index.html",
+        notFound: "public/404.html",
+      },
+    },
+  },
   plugins: [
     VueRouter({
       dts: "src/typed-router.d.ts",
