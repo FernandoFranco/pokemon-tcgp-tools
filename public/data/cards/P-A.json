@@ -37,7 +37,7 @@
   {
     "id": "008",
     "name": "Pokédex",
-    "from": "mission"
+    "from": "gift"
   },
   {
     "id": "009",
@@ -47,7 +47,7 @@
   {
     "id": "010",
     "name": "Mewtwo",
-    "from": "mission"
+    "from": "premium mission"
   },
   {
     "id": "011",
@@ -62,52 +62,52 @@
   {
     "id": "013",
     "name": "Butterfree",
-    "from": "promo from"
+    "from": "promo pack vol.1"
   },
   {
     "id": "014",
     "name": "Lapras EX",
-    "from": "promo from"
+    "from": "promo pack vol.1"
   },
   {
     "id": "015",
     "name": "Pikachu",
-    "from": "promo from"
+    "from": "promo pack vol.1"
   },
   {
     "id": "016",
     "name": "Clefairy",
-    "from": "promo from"
+    "from": "promo pack vol.1"
   },
   {
     "id": "017",
     "name": "Mankey",
-    "from": "promo from"
+    "from": "promo pack vol.1"
   },
   {
     "id": "018",
     "name": "Venusaur",
-    "from": "promo from"
+    "from": "promo pack vol.2"
   },
   {
     "id": "019",
     "name": "Greninja",
-    "from": "promo from"
+    "from": "promo pack vol.2"
   },
   {
     "id": "020",
     "name": "Haunter",
-    "from": "promo from"
+    "from": "promo pack vol.2"
   },
   {
     "id": "021",
     "name": "Onix",
-    "from": "promo from"
+    "from": "promo pack vol.2"
   },
   {
     "id": "022",
     "name": "Jigglypuff",
-    "from": "promo from"
+    "from": "promo pack vol.2"
   },
   {
     "id": "023",
@@ -122,37 +122,37 @@
   {
     "id": "025",
     "name": "Moltres EX",
-    "from": "?"
+    "from": "premium mission"
   },
   {
     "id": "026",
     "name": "Pikachu",
-    "from": "?"
+    "from": "new year event mission"
   },
   {
     "id": "027",
     "name": "Snivy",
-    "from": "promo from"
+    "from": "promo pack vol.3"
   },
   {
     "id": "028",
     "name": "Volcarona",
-    "from": "promo from"
+    "from": "promo pack vol.3"
   },
   {
     "id": "029",
     "name": "Blastoise",
-    "from": "promo from"
+    "from": "promo pack vol.3"
   },
   {
     "id": "030",
     "name": "Eevee",
-    "from": "promo from"
+    "from": "promo pack vol.3"
   },
   {
     "id": "031",
     "name": "Cinccino",
-    "from": "promo from"
+    "from": "promo pack vol.3"
   },
   {
     "id": "032",
@@ -163,5 +163,45 @@
     "id": "033",
     "name": "Squirtle",
     "from": "wonder pick"
+  },
+  {
+    "id": "034",
+    "name": "Piplup",
+    "from": "premium mission"
+  },
+  {
+    "id": "035",
+    "name": "Turtwig",
+    "from": "?"
+  },
+  {
+    "id": "036",
+    "name": "Electivire",
+    "from": "?"
+  },
+  {
+    "id": "037",
+    "name": "Cresselia EX",
+    "from": "?"
+  },
+  {
+    "id": "038",
+    "name": "Misdreavus",
+    "from": "?"
+  },
+  {
+    "id": "039",
+    "name": "Skarmory",
+    "from": "?"
+  },
+  {
+    "id": "040",
+    "name": "Chimchar",
+    "from": "?"
+  },
+  {
+    "id": "041",
+    "name": "Togepi",
+    "from": "?"
   }
 ]
