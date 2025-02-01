@@ -1,0 +1,35 @@
+name: Deploy Vue.js App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # 🚀 Altere se o branch principal do seu repositório for diferente
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18 # Use uma versão compatível com seu projeto
+          cache: "yarn"
+
+      - name: Instalar dependências
+        run: yarn install --frozen-lockfile
+
+      - name: Construir projeto
+        run: yarn build
+
+      - name: Deploy para GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist
