@@ -12,6 +12,9 @@ import { fileURLToPath, URL } from "node:url";
 import { defineConfig } from "vite";
 
 let base = process.env.VITE_BASE_URL;
+if (base && !base.startsWith("/")) {
+  base = "/" + base;
+}
 if (base && !base.endsWith("/")) {
   base += "/";
 }
