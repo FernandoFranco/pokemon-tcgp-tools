@@ -3,7 +3,7 @@ name: Deploy Vue.js App to GitHub Pages
 on:
   push:
     branches:
-      - main # 🚀 Altere se o branch principal do seu repositório for diferente
+      - main
 
 permissions:
   contents: write
@@ -19,8 +19,11 @@ jobs:
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18 # Use uma versão compatível com seu projeto
+          node-version: 22
           cache: "yarn"
+
+      - name: Definir VITE_BASE_URL automaticamente
+        run: echo "VITE_BASE_URL=/${GITHUB_REPOSITORY#*/}/" >> .env.production
 
       - name: Instalar dependências
         run: yarn install --frozen-lockfile

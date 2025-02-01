@@ -18,7 +18,9 @@ const loading = ref<boolean>(true);
 
 async function fetchExpansions(): Promise<Expansion[]> {
   try {
-    const response = await fetch("/data/expansions.json");
+    const response = await fetch(
+      `${import.meta.env.BASE_URL}data/expansions.json`
+    );
     return await response.json();
   } catch {
     throw new Error("Failed to load expansions");
@@ -27,7 +29,9 @@ async function fetchExpansions(): Promise<Expansion[]> {
 
 async function fetchPacksByExpansionId(expansionId: string): Promise<void> {
   try {
-    const response = await fetch(`/data/packs/${expansionId}.json`);
+    const response = await fetch(
+      `${import.meta.env.BASE_URL}data/packs/${expansionId}.json`
+    );
     const packs: Pack[] = await response.json();
     await db.packs.bulkPut(packs.map((pack) => ({ ...pack, expansionId })));
   } catch {
@@ -37,7 +41,9 @@ async function fetchPacksByExpansionId(expansionId: string): Promise<void> {
 
 async function fetchCardsByExpansionId(expansionId: string): Promise<void> {
   try {
-    const response = await fetch(`/data/cards/${expansionId}.json`);
+    const response = await fetch(
+      `${import.meta.env.BASE_URL}data/cards/${expansionId}.json`
+    );
     const cards: Card[] = await response.json();
     await db.cards.bulkPut(
       cards.map((card) => ({
