@@ -3,7 +3,7 @@
     <VRow justify="center">
       <VCol cols="12" class="text-center">
         <VImg
-          :src="`/images/expansions/${expansion?.id}.png`"
+          :src="`${baseUrl}/images/expansions/${expansion?.id}.png`"
           alt="Expansion Logo"
           max-height="64"
           class="ma-4"
@@ -15,7 +15,7 @@
       <template v-for="pack in packs" :key="pack.id">
         <VCol cols="4" class="text-center">
           <VImg
-            :src="`/images/packs/${pack.id}.png`"
+            :src="`${baseUrl}/images/packs/${pack.id}.png`"
             alt="Pack Image"
             max-height="256"
           />
@@ -108,6 +108,7 @@
 </template>
 
 <script setup lang="ts">
+import { useBaseUrl } from "@/composables/useBaseUrl";
 import { useTcgpCardsByExpansionId } from "@/composables/useTcgpCardsByExpansionId";
 import { useTcgpExpansionById } from "@/composables/useTcgpExpansionById";
 import { useTcgpHasCard } from "@/composables/useTcgpHasCard";
@@ -116,7 +117,9 @@ import type { Pack } from "@/db/models/pack.model";
 import { useRoute } from "vue-router";
 import { VChip } from "vuetify/components";
 
+const baseUrl = useBaseUrl();
 const route = useRoute<"/expansion/[expansion]">();
+
 const { expansion } = useTcgpExpansionById(route.params.expansion);
 const { packs } = useTcgpPacksByExpansionId(route.params.expansion);
 const { cards } = useTcgpCardsByExpansionId(route.params.expansion);
