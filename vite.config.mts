@@ -13,6 +13,7 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/pokemon-tcgp-tools/",
   plugins: [
     VueRouter({
       dts: "src/typed-router.d.ts",
