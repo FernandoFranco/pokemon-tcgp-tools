@@ -5,8 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Redirecionando...</title>
     <script>
-      var path = window.location.pathname;
-      window.location.replace(path);
+      var [, project, ...routeParts] = window.location.pathname.split("/");
+      const route = ["/", ...routeParts].join("/");
+
+      var redirect = `redirect=${encodeURIComponent(route)}`;
+      var newLocation = `/${project}?${redirect}`;
+      window.location.replace(newLocation);
     </script>
   </head>
   <body>

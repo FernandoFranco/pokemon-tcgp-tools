@@ -31,6 +31,10 @@ router.onError((err, to) => {
 
 router.isReady().then(() => {
   localStorage.removeItem("vuetify:dynamic-reload");
+
+  if (window.location.search.includes("redirect")) {
+    router.push(window.location.search.split("redirect=")[1]);
+  }
 });
 
 export default router;
