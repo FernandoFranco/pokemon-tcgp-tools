@@ -2,1650 +2,1650 @@
   {
     "id": "001",
     "name": "Bulbasaur",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "002",
     "name": "Ivysaur",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "003",
     "name": "Venusaur",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "004",
     "name": "Venusaur EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "mewtwo"
   },
   {
     "id": "005",
     "name": "Caterpie",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "006",
     "name": "Metapod",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "007",
     "name": "Butterfree",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "008",
     "name": "Weedle",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "009",
     "name": "Kakuna",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "010",
     "name": "Beedrill",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "011",
     "name": "Oddish",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "012",
     "name": "Gloom",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "013",
     "name": "Vileplume",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "014",
     "name": "Paras",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "015",
     "name": "Parasect",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "016",
     "name": "Venonat",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "017",
     "name": "Venomoth",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "018",
     "name": "Bellsprout",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "019",
     "name": "Weepinbell",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "020",
     "name": "Victreebel",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "021",
     "name": "Exeggcute",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "022",
     "name": "Exeggutor",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "023",
     "name": "Exeggutor EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "charizard"
   },
   {
     "id": "024",
     "name": "Tangela",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "025",
     "name": "Scyther",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "026",
     "name": "Pinsir",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "027",
     "name": "Cottonee",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "028",
     "name": "Whimsicott",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "029",
     "name": "Petilil",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "030",
     "name": "Lilligant",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "031",
     "name": "Skiddo",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "032",
     "name": "Gogoat",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "033",
     "name": "Charmander",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "034",
     "name": "Charmeleon",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "035",
     "name": "Charizard",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "036",
     "name": "Charizard EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "charizard"
   },
   {
     "id": "037",
     "name": "Vulpix",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "038",
     "name": "Ninetales",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "039",
     "name": "Growlithe",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "040",
     "name": "Arcanine",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "041",
     "name": "Arcanine EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "pikachu"
   },
   {
     "id": "042",
     "name": "Ponyta",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "043",
     "name": "Rapidash",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "044",
     "name": "Magmar",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "045",
     "name": "Flareon",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "046",
     "name": "Moltres",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "047",
     "name": "Moltres EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "charizard"
   },
   {
     "id": "048",
     "name": "Heatmor",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "049",
     "name": "Salandit",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "050",
     "name": "Salazzle",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "051",
     "name": "Sizzlipede",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "052",
     "name": "Centiskorch",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "053",
     "name": "Squirtle",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "054",
     "name": "Wartortle",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "055",
     "name": "Blastoise",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "056",
     "name": "Blastoise EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "pikachu"
   },
   {
     "id": "057",
     "name": "Psyduck",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "058",
     "name": "Golduck",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "059",
     "name": "Poliwag",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "060",
     "name": "Poliwhirl",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "061",
     "name": "Poliwrath",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "062",
     "name": "Tentacool",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "063",
     "name": "Tentacruel",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "064",
     "name": "Seel",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "065",
     "name": "Dewgong",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "066",
     "name": "Shellder",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "067",
     "name": "Cloyster",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "068",
     "name": "Krabby",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "069",
     "name": "Kingler",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "070",
     "name": "Horsea",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "071",
     "name": "Seadra",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "072",
     "name": "Goldeen",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "073",
     "name": "Seaking",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "074",
     "name": "Staryu",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "075",
     "name": "Starmie",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "076",
     "name": "Starmie EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "charizard"
   },
   {
     "id": "077",
     "name": "Magikarp",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "078",
     "name": "Gyarados",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "079",
     "name": "Lapras",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "080",
     "name": "Vaporeon",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "081",
     "name": "Omanyte",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "082",
     "name": "Omastar",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "083",
     "name": "Articuno",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "084",
     "name": "Articuno EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "mewtwo"
   },
   {
     "id": "085",
     "name": "Ducklett",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "086",
     "name": "Swanna",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "087",
     "name": "Froakie",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "088",
     "name": "Frogadier",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "089",
     "name": "Greninja",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "090",
     "name": "Pyukumuku",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "091",
     "name": "Bruxish",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "092",
     "name": "Snom",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "093",
     "name": "Frosmoth",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "094",
     "name": "Pikachu",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "095",
     "name": "Raichu",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "096",
     "name": "Pikachu EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "pikachu"
   },
   {
     "id": "097",
     "name": "Magnemite",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "098",
     "name": "Magneton",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "099",
     "name": "Voltorb",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "100",
     "name": "Electrode",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "101",
     "name": "Electabuzz",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "102",
     "name": "Jolteon",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "103",
     "name": "Zapdos",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "104",
     "name": "Zapdos EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "pikachu"
   },
   {
     "id": "105",
     "name": "Blitzle",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "106",
     "name": "Zebstrika",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "107",
     "name": "Tynamo",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "108",
     "name": "Eelektrik",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "109",
     "name": "Eelektross",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "110",
     "name": "Helioptile",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "111",
     "name": "Heliolisk",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "112",
     "name": "Pincurchin",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "113",
     "name": "Clefairy",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "114",
     "name": "Clefable",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "115",
     "name": "Abra",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "116",
     "name": "Kadabra",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "117",
     "name": "Alakazam",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "118",
     "name": "Slowpoke",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "119",
     "name": "Slowbro",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "120",
     "name": "Gastly",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "121",
     "name": "Haunter",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "122",
     "name": "Gengar",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "123",
     "name": "Gengar EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "mewtwo"
   },
   {
     "id": "124",
     "name": "Drowzee",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "125",
     "name": "Hypno",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "126",
     "name": "Mr. Mime",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "127",
     "name": "Jynx",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "128",
     "name": "Mewtwo",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "129",
     "name": "Mewtwo EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "mewtwo"
   },
   {
     "id": "130",
     "name": "Ralts",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "131",
     "name": "Kirlia",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "132",
     "name": "Gardevoir",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "133",
     "name": "Woobat",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "134",
     "name": "Swoobat",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "135",
     "name": "Golett",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "136",
     "name": "Golurk",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "137",
     "name": "Sandshrew",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "138",
     "name": "Sandslash",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "139",
     "name": "Diglett",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "140",
     "name": "Dugtrio",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "141",
     "name": "Mankey",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "142",
     "name": "Primeape",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "143",
     "name": "Machop",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "144",
     "name": "Machoke",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "145",
     "name": "Machamp",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "146",
     "name": "Machamp EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "charizard"
   },
   {
     "id": "147",
     "name": "Geodude",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "148",
     "name": "Graveler",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "149",
     "name": "Golem",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "150",
     "name": "Onix",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "151",
     "name": "Cubone",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "152",
     "name": "Marowak",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "153",
     "name": "Marowak EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "mewtwo"
   },
   {
     "id": "154",
     "name": "Hitmonlee",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "155",
     "name": "Hitmonchan",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "156",
     "name": "Rhyhorn",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "157",
     "name": "Rhydon",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "158",
     "name": "Kabuto",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "159",
     "name": "Kabutops",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "160",
     "name": "Mienfoo",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "161",
     "name": "Mienshao",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "162",
     "name": "Clobbopus",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "163",
     "name": "Grapploct",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "164",
     "name": "Ekans",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "165",
     "name": "Arbok",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "166",
     "name": "Nidoran♀",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "167",
     "name": "Nidorina",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "168",
     "name": "Nidoqueen",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "169",
     "name": "Nidoran♂",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "170",
     "name": "Nidorino",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "171",
     "name": "Nidoking",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "172",
     "name": "Zubat",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "173",
     "name": "Golbat",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "174",
     "name": "Grimer",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "175",
     "name": "Muk",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "176",
     "name": "Koffing",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "177",
     "name": "Weezing",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "178",
     "name": "Mawile",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "179",
     "name": "Pawniard",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "180",
     "name": "Bisharp",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "181",
     "name": "Meltan",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "182",
     "name": "Melmetal",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "183",
     "name": "Dratini",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "184",
     "name": "Dragonair",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "185",
     "name": "Dragonite",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "186",
     "name": "Pidgey",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "187",
     "name": "Pidgeotto",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "188",
     "name": "Pidgeot",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "189",
     "name": "Rattata",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "190",
     "name": "Raticate",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "191",
     "name": "Spearow",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "192",
     "name": "Fearow",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "193",
     "name": "Jigglypuff",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "194",
     "name": "Wigglytuff",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "195",
     "name": "Wigglytuff EX",
-    "rarity": "♢♢♢♢",
+    "rarity": 4,
     "packId": "pikachu"
   },
   {
     "id": "196",
     "name": "Meowth",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "197",
     "name": "Persian",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "198",
     "name": "Farfetch'd",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "199",
     "name": "Doduo",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "200",
     "name": "Dodrio",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "201",
     "name": "Lickitung",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "202",
     "name": "Chansey",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "203",
     "name": "Kangaskhan",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "charizard"
   },
   {
     "id": "204",
     "name": "Tauros",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "205",
     "name": "Ditto",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "206",
     "name": "Eevee",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "207",
     "name": "Eevee",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "208",
     "name": "Eevee",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "209",
     "name": "Porygon",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "210",
     "name": "Aerodactyl",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "mewtwo"
   },
   {
     "id": "211",
     "name": "Snorlax",
-    "rarity": "♢♢♢",
+    "rarity": 3,
     "packId": "pikachu"
   },
   {
     "id": "212",
     "name": "Minccino",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "213",
     "name": "Cinccino",
-    "rarity": "♢♢"
+    "rarity": 2
   },
   {
     "id": "214",
     "name": "Wooloo",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "215",
     "name": "Dubwool",
-    "rarity": "♢"
+    "rarity": 1
   },
   {
     "id": "216",
     "name": "Helix Fossil",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "pikachu"
   },
   {
     "id": "217",
     "name": "Dome Fossil",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "charizard"
   },
   {
     "id": "218",
     "name": "Old Amber",
-    "rarity": "♢",
+    "rarity": 1,
     "packId": "mewtwo"
   },
   {
     "id": "219",
     "name": "Erika",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "220",
     "name": "Misty",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "221",
     "name": "Blaine",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "222",
     "name": "Koga",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "223",
     "name": "Giovanni",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "mewtwo"
   },
   {
     "id": "224",
     "name": "Brock",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "225",
     "name": "Sabrina",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "charizard"
   },
   {
     "id": "226",
     "name": "Lt. Surge",
-    "rarity": "♢♢",
+    "rarity": 2,
     "packId": "pikachu"
   },
   {
     "id": "227",
     "name": "Bulbasaur",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "228",
     "name": "Gloom",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "229",
     "name": "Pinsir",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "230",
     "name": "Charmander",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "231",
     "name": "Rapidash",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "232",
     "name": "Squirtle",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "233",
     "name": "Gyarados",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "234",
     "name": "Lapras",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "235",
     "name": "Electrode",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "236",
     "name": "Alakazam",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "237",
     "name": "Slowpoke",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "238",
     "name": "Diglett",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "239",
     "name": "Cubone",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "240",
     "name": "Nidoqueen",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "241",
     "name": "Nidoking",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "242",
     "name": "Golbat",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "243",
     "name": "Weezing",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "244",
     "name": "Dragonite",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "245",
     "name": "Pidgeot",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "246",
     "name": "Meowth",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "charizard"
   },
   {
     "id": "247",
     "name": "Ditto",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "248",
     "name": "Eevee",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "249",
     "name": "Porygon",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "mewtwo"
   },
   {
     "id": "250",
     "name": "Snorlax",
-    "rarity": "☆",
+    "rarity": 5,
     "packId": "pikachu"
   },
   {
     "id": "251",
     "name": "Venusaur EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "252",
     "name": "Exeggutor EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "253",
     "name": "Charizard EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "254",
     "name": "Arcanine EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "255",
     "name": "Moltres EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "256",
     "name": "Blastoise EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "257",
     "name": "Starmie EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "258",
     "name": "Articuno EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "259",
     "name": "Pikachu EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "260",
     "name": "Zapdos EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "261",
     "name": "Gengar EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "262",
     "name": "Mewtwo EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "263",
     "name": "Machamp EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "264",
     "name": "Marowak EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "265",
     "name": "Wigglytuff EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "266",
     "name": "Erika",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "267",
     "name": "Misty",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "268",
     "name": "Blaine",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "269",
     "name": "Koga",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "270",
     "name": "Giovanni",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "271",
     "name": "Brock",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "272",
     "name": "Sabrina",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "273",
     "name": "Lt. Surge",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "274",
     "name": "Moltres EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "275",
     "name": "Articuno EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "276",
     "name": "Zapdos EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "277",
     "name": "Gengar EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "mewtwo"
   },
   {
     "id": "278",
     "name": "Machamp EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "charizard"
   },
   {
     "id": "279",
     "name": "Wigglytuff EX",
-    "rarity": "☆☆",
+    "rarity": 6,
     "packId": "pikachu"
   },
   {
     "id": "280",
     "name": "Charizard EX",
-    "rarity": "☆☆☆",
+    "rarity": 7,
     "packId": "charizard"
   },
   {
     "id": "281",
     "name": "Pikachu EX",
-    "rarity": "☆☆☆",
+    "rarity": 7,
     "packId": "pikachu"
   },
   {
     "id": "282",
     "name": "Mewtwo EX",
-    "rarity": "☆☆☆",
+    "rarity": 7,
     "packId": "mewtwo"
   },
   {
@@ -1656,16 +1656,16 @@
   {
     "id": "284",
     "name": "Charizard EX",
-    "rarity": "♛"
+    "rarity": 8
   },
   {
     "id": "285",
     "name": "Pikachu EX",
-    "rarity": "♛"
+    "rarity": 8
   },
   {
     "id": "286",
     "name": "Mewtwo EX",
-    "rarity": "♛"
+    "rarity": 8
   }
 ]

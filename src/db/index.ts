@@ -15,7 +15,7 @@ export class TcgpDatabase extends Dexie {
     this.version(1).stores({
       expansions: "id, name",
       packs: "id, name, expansionId",
-      cards: "id, name, expansionId, packId",
+      cards: "id, name, rarity, expansionId, packId",
 
       myCards: "id",
     });

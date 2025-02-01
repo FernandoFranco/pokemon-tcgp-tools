@@ -1,13 +1,13 @@
 <template>
   <VContainer>
     <VCard>
-      <VCardTitle>Melhor chance de card novo</VCardTitle>
+      <VCardTitle>Best chance for a new card</VCardTitle>
       <VCardText>
-        Em breve, aqui você poderá ver qual o melhor pack para escolher
+        Soon, you will be able to see which pack is the best to choose
       </VCardText>
     </VCard>
 
-    <VRow class="mt-4">
+    <VRow class="mt-3">
       <template v-for="expansion in expansions" :key="expansion.id">
         <VCol cols="12" sm="6" md="4" lg="3">
           <VHover #default="{ props, isHovering }">

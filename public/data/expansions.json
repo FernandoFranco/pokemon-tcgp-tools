@@ -12,7 +12,7 @@
   {
     "id": "A1a",
     "name": "Mythical Island",
-    "headers": ["pack", "rarity"]
+    "headers": ["rarity"]
   },
   {
     "id": "A2",

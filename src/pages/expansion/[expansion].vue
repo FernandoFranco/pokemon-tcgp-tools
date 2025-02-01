@@ -86,6 +86,10 @@
           {{ getPackName(item.packId) }}
         </VChip>
       </template>
+
+      <template #[`item.rarity`]="{ item }">
+        <TcgpRarity :rarity="item.rarity ?? 0" />
+      </template>
     </VDataTableVirtual>
   </VContainer>
 </template>
