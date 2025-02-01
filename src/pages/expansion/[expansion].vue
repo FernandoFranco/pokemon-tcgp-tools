@@ -111,7 +111,7 @@
 import { useBaseUrl } from "@/composables/useBaseUrl";
 import { useTcgpCardsByExpansionId } from "@/composables/useTcgpCardsByExpansionId";
 import { useTcgpExpansionById } from "@/composables/useTcgpExpansionById";
-import { useTcgpHasCard } from "@/composables/useTcgpHasCard";
+import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
 import { useTcgpPacksByExpansionId } from "@/composables/useTcgpPacksByExpansionId";
 import type { Pack } from "@/db/models/pack.model";
 import { useRoute } from "vue-router";
@@ -123,7 +123,7 @@ const route = useRoute<"/expansion/[expansion]">();
 const { expansion } = useTcgpExpansionById(route.params.expansion);
 const { packs } = useTcgpPacksByExpansionId(route.params.expansion);
 const { cards } = useTcgpCardsByExpansionId(route.params.expansion);
-const { myCards } = useTcgpHasCard();
+const { myCards } = useTcgpMyCards();
 
 const myTotalCardsFromExpansion = computed(
   () => cards.value.filter((card) => myCards.value.includes(card.id)).length
