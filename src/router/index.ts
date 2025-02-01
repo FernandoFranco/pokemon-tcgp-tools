@@ -33,7 +33,8 @@ router.isReady().then(() => {
   localStorage.removeItem("vuetify:dynamic-reload");
 
   if (window.location.search.includes("redirect")) {
-    router.push(window.location.search.split("redirect=")[1]);
+    const newRoute = window.location.search.split("redirect=")[1];
+    router.push(decodeURIComponent(newRoute));
   }
 });
 
