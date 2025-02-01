@@ -1,0 +1,167 @@
+[
+  {
+    "id": "001",
+    "name": "Potion",
+    "from": "shop"
+  },
+  {
+    "id": "002",
+    "name": "X speed",
+    "from": "shop"
+  },
+  {
+    "id": "003",
+    "name": "Hand scope",
+    "from": "shop"
+  },
+  {
+    "id": "004",
+    "name": "Pokedex",
+    "from": "shop"
+  },
+  {
+    "id": "005",
+    "name": "Poke ball",
+    "from": "shop"
+  },
+  {
+    "id": "006",
+    "name": "Red card ",
+    "from": "shop"
+  },
+  {
+    "id": "007",
+    "name": "Professor's Research",
+    "from": "shop"
+  },
+  {
+    "id": "008",
+    "name": "Pokédex",
+    "from": "mission"
+  },
+  {
+    "id": "009",
+    "name": "Pikachu",
+    "from": "shop"
+  },
+  {
+    "id": "010",
+    "name": "Mewtwo",
+    "from": "mission"
+  },
+  {
+    "id": "011",
+    "name": "Chansey",
+    "from": "wonder pick"
+  },
+  {
+    "id": "012",
+    "name": "Meowth",
+    "from": "wonder pick"
+  },
+  {
+    "id": "013",
+    "name": "Butterfree",
+    "from": "promo from"
+  },
+  {
+    "id": "014",
+    "name": "Lapras EX",
+    "from": "promo from"
+  },
+  {
+    "id": "015",
+    "name": "Pikachu",
+    "from": "promo from"
+  },
+  {
+    "id": "016",
+    "name": "Clefairy",
+    "from": "promo from"
+  },
+  {
+    "id": "017",
+    "name": "Mankey",
+    "from": "promo from"
+  },
+  {
+    "id": "018",
+    "name": "Venusaur",
+    "from": "promo from"
+  },
+  {
+    "id": "019",
+    "name": "Greninja",
+    "from": "promo from"
+  },
+  {
+    "id": "020",
+    "name": "Haunter",
+    "from": "promo from"
+  },
+  {
+    "id": "021",
+    "name": "Onix",
+    "from": "promo from"
+  },
+  {
+    "id": "022",
+    "name": "Jigglypuff",
+    "from": "promo from"
+  },
+  {
+    "id": "023",
+    "name": "Bulbasaur",
+    "from": "wonder pick"
+  },
+  {
+    "id": "024",
+    "name": "Magnemite",
+    "from": "wonder pick"
+  },
+  {
+    "id": "025",
+    "name": "Moltres EX",
+    "from": "?"
+  },
+  {
+    "id": "026",
+    "name": "Pikachu",
+    "from": "?"
+  },
+  {
+    "id": "027",
+    "name": "Snivy",
+    "from": "promo from"
+  },
+  {
+    "id": "028",
+    "name": "Volcarona",
+    "from": "promo from"
+  },
+  {
+    "id": "029",
+    "name": "Blastoise",
+    "from": "promo from"
+  },
+  {
+    "id": "030",
+    "name": "Eevee",
+    "from": "promo from"
+  },
+  {
+    "id": "031",
+    "name": "Cinccino",
+    "from": "promo from"
+  },
+  {
+    "id": "032",
+    "name": "Charmander",
+    "from": "wonder pick"
+  },
+  {
+    "id": "033",
+    "name": "Squirtle",
+    "from": "wonder pick"
+  }
+]

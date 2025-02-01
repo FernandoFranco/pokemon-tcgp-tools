@@ -16,4 +16,9 @@ export default createVuetify({
   theme: {
     defaultTheme: "light",
   },
+  defaults: {
+    VCard: {
+      rounded: "xl",
+    },
+  },
 });

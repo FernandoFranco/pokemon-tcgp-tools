@@ -1,0 +1,518 @@
+[
+  {
+    "id": "001",
+    "name": "Exeggcute",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "002",
+    "name": "Exeggutor",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "003",
+    "name": "Celebi EX",
+    "rarity": "♢♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "004",
+    "name": "Snivy",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "005",
+    "name": "Servine",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "006",
+    "name": "Serperior",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "007",
+    "name": "Morelull",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "008",
+    "name": "Shiinotic",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "009",
+    "name": "Dhelmise",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "010",
+    "name": "Ponyta",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "011",
+    "name": "Rapidash",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "012",
+    "name": "Magmar",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "013",
+    "name": "Larvesta",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "014",
+    "name": "Volcarona",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "015",
+    "name": "Salandit",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "016",
+    "name": "Salazzle",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "017",
+    "name": "Magikarp",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "018",
+    "name": "Gyarados EX",
+    "rarity": "♢♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "019",
+    "name": "Vaporeon",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "020",
+    "name": "Finneon",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "021",
+    "name": "Lumineon",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "022",
+    "name": "Chewtle",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "023",
+    "name": "Drednaw",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "024",
+    "name": "Cramorant",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "025",
+    "name": "Pikachu",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "026",
+    "name": "Raichu",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "027",
+    "name": "Electabuzz",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "028",
+    "name": "Joltik",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "029",
+    "name": "Galvantule",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "030",
+    "name": "Dedenne",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "031",
+    "name": "Mew",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "032",
+    "name": "Mew EX",
+    "rarity": "♢♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "033",
+    "name": "Sigilyph",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "034",
+    "name": "Elgyem",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "035",
+    "name": "Beheeyem",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "036",
+    "name": "Flabébé",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "037",
+    "name": "Floette",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "038",
+    "name": "Florgess",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "039",
+    "name": "Swirlix",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "040",
+    "name": "Slurpuff",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "041",
+    "name": "Mankey",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "042",
+    "name": "Primeape",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "043",
+    "name": "Geodude",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "044",
+    "name": "Graveller",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "045",
+    "name": "Golem",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "046",
+    "name": "Aerodactyl EX",
+    "rarity": "♢♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "047",
+    "name": "Marshadow",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "048",
+    "name": "Stonejourner",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "049",
+    "name": "Koffing",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "050",
+    "name": "Weezing",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "051",
+    "name": "Purrloin",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "052",
+    "name": "Liepard",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "053",
+    "name": "Venipede",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "054",
+    "name": "Whirlipede",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "055",
+    "name": "Scolipede",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "056",
+    "name": "Druddigon",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "057",
+    "name": "Pidgey",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "058",
+    "name": "Pidgeotto",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "059",
+    "name": "Pidgeot EX",
+    "rarity": "♢♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "060",
+    "name": "Tauros",
+    "rarity": "♢♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "061",
+    "name": "Eevee",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "062",
+    "name": "Chatot",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "063",
+    "name": "Old Amber",
+    "rarity": "♢",
+    "packId": "mew"
+  },
+  {
+    "id": "064",
+    "name": "Pokemon Flute",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "065",
+    "name": "Mythical Slab",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "066",
+    "name": "Budding Expeditioner",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "067",
+    "name": "Blue",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "068",
+    "name": "Leaf",
+    "rarity": "♢♢",
+    "packId": "mew"
+  },
+  {
+    "id": "069",
+    "name": "Exeggutor",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "070",
+    "name": "Serperior",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "071",
+    "name": "Salandit",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "072",
+    "name": "Vaporeon",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "073",
+    "name": "Dedenne",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "074",
+    "name": "Marshadow",
+    "rarity": "☆",
+    "packId": "mew"
+  },
+  {
+    "id": "075",
+    "name": "Celebi EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "076",
+    "name": "Gyarados EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "077",
+    "name": "Mew EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "078",
+    "name": "Aerodactyl EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "079",
+    "name": "Pidgeot EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "080",
+    "name": "Budding Expeditioner",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "081",
+    "name": "Blue",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "082",
+    "name": "Leaf",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "083",
+    "name": "Mew EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "084",
+    "name": "Aerodactyl EX",
+    "rarity": "☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "085",
+    "name": "Celebi EX",
+    "rarity": "☆☆☆",
+    "packId": "mew"
+  },
+  {
+    "id": "086",
+    "name": "Mew EX",
+    "rarity": "♛",
+    "packId": "mew"
+  }
+]

@@ -1,13 +1,15 @@
 <template>
   <VAppBar app>
     <VToolbarTitle class="text-center">
-      <VImg src="@/assets/logo.png" height="64" />
+      <a href="/">
+        <VImg src="@/assets/logo.png" height="64" />
+      </a>
     </VToolbarTitle>
   </VAppBar>
 
-  <v-main>
-    <router-view />
-  </v-main>
+  <VMain>
+    <RouterView />
+  </VMain>
 </template>
 
 <script lang="ts" setup>

@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "001",
+    "name": "Oddish",
+    "rarity": "♢"
+  },
+  {
+    "id": "002",
+    "name": "Gloom",
+    "rarity": "♢"
+  },
+  {
+    "id": "003",
+    "name": "Bellossom",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "004",
+    "name": "Tangela",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "005",
+    "name": "Tangrowth",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "006",
+    "name": "Yanma",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "007",
+    "name": "Yanmega EX",
+    "rarity": "♢♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "008",
+    "name": "Roselia",
+    "rarity": "♢"
+  },
+  {
+    "id": "009",
+    "name": "Roserade",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "010",
+    "name": "Turtwig",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "011",
+    "name": "Grotle",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "012",
+    "name": "Torterra",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "013",
+    "name": "Kricketot",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "014",
+    "name": "Kricketune",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "015",
+    "name": "Burmy",
+    "rarity": "♢"
+  },
+  {
+    "id": "016",
+    "name": "Wormadam",
+    "rarity": "♢"
+  },
+  {
+    "id": "017",
+    "name": "Combee",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "018",
+    "name": "Vespiquen",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "019",
+    "name": "Carnivine",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "020",
+    "name": "Leafeon",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "021",
+    "name": "Mow Rotom",
+    "rarity": "♢"
+  },
+  {
+    "id": "022",
+    "name": "Shaymin",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "023",
+    "name": "Magmar",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "024",
+    "name": "Magmortar",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "025",
+    "name": "Slugma",
+    "rarity": "♢"
+  },
+  {
+    "id": "026",
+    "name": "Magcargo",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "027",
+    "name": "Chimchar",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "028",
+    "name": "Monferno",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "029",
+    "name": "Infernape EX",
+    "rarity": "♢♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "030",
+    "name": "Heat Rotom",
+    "rarity": "♢"
+  },
+  {
+    "id": "031",
+    "name": "Swinub",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "032",
+    "name": "Piloswine",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "033",
+    "name": "Mamoswine",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "034",
+    "name": "Regice",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "035",
+    "name": "Piplup",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "036",
+    "name": "Prinplup",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "037",
+    "name": "Empoleon",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "038",
+    "name": "Buizel",
+    "rarity": "♢"
+  },
+  {
+    "id": "039",
+    "name": "Floatzel",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "040",
+    "name": "Shellos",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "041",
+    "name": "Gastrodon",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "042",
+    "name": "Finneon",
+    "rarity": "♢"
+  },
+  {
+    "id": "043",
+    "name": "Lumineon",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "044",
+    "name": "Snover",
+    "rarity": "♢"
+  },
+  {
+    "id": "045",
+    "name": "Abomasnow",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "046",
+    "name": "Glaceon",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "047",
+    "name": "Wash Rotom",
+    "rarity": "♢"
+  },
+  {
+    "id": "048",
+    "name": "Frost Rotom",
+    "rarity": "♢"
+  },
+  {
+    "id": "049",
+    "name": "Palkia EX",
+    "rarity": "♢♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "050",
+    "name": "Manaphy",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "051",
+    "name": "Magnemite",
+    "rarity": "♢"
+  },
+  {
+    "id": "052",
+    "name": "Magneton",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "053",
+    "name": "Magnezone",
+    "rarity": "♢♢♢"
+  },
+  {
+    "id": "054",
+    "name": "Voltorb",
+    "rarity": "♢"
+  },
+  {
+    "id": "055",
+    "name": "Electrode",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "056",
+    "name": "Electabuzz",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "057",
+    "name": "Electivire",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "058",
+    "name": "Shinx",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "059",
+    "name": "Luxio",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "060",
+    "name": "Luxray",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "061",
+    "name": "Pachirisu EX",
+    "rarity": "♢♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "062",
+    "name": "Rotom",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "063",
+    "name": "Togepi",
+    "rarity": "♢"
+  },
+  {
+    "id": "064",
+    "name": "Togetic",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "065",
+    "name": "Togekiss",
+    "rarity": "♢♢♢"
+  },
+  {
+    "id": "066",
+    "name": "Misdreavus",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "067",
+    "name": "Mismagius EX",
+    "rarity": "♢♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "068",
+    "name": "Ralts",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "069",
+    "name": "Kirlia",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "070",
+    "name": "Duskull",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "071",
+    "name": "Dusclops",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "072",
+    "name": "Dusknoir",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "073",
+    "name": "Drifloon",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "074",
+    "name": "Drifblim",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "075",
+    "name": "Uxie",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "076",
+    "name": "Mesprit",
+    "rarity": "♢♢♢"
+  },
+  {
+    "id": "077",
+    "name": "Azelf",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "078",
+    "name": "Giratina",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "079",
+    "name": "Cresselia",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "080",
+    "name": "Rhyhorn",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "081",
+    "name": "Rhydon",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "082",
+    "name": "Rhyperior",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "083",
+    "name": "Gligar",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "084",
+    "name": "Gliscor",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "085",
+    "name": "Hitmontop",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "086",
+    "name": "Nosepass",
+    "rarity": "♢"
+  },
+  {
+    "id": "087",
+    "name": "Regirock",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "088",
+    "name": "Cranidos",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "089",
+    "name": "Rampardos",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "090",
+    "name": "Wormadam",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "091",
+    "name": "Riolu",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "092",
+    "name": "Lucario",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "093",
+    "name": "Hippopotas",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "094",
+    "name": "Hippowdon",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "095",
+    "name": "Gallade EX",
+    "rarity": "♢♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "096",
+    "name": "Murkrow",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "097",
+    "name": "Honchkrow",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "098",
+    "name": "Sneasel",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "099",
+    "name": "Weavile EX",
+    "rarity": "♢♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "100",
+    "name": "Poochyena",
+    "rarity": "♢"
+  },
+  {
+    "id": "101",
+    "name": "Mightyena",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "102",
+    "name": "Stunky",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "103",
+    "name": "Skuntank",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "104",
+    "name": "Spiritomb",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "105",
+    "name": "Skorupi",
+    "rarity": "♢"
+  },
+  {
+    "id": "106",
+    "name": "Drapion",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "107",
+    "name": "Croagunk",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "108",
+    "name": "Toxicroak",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "109",
+    "name": "Darkrai",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "110",
+    "name": "Darkrai EX",
+    "rarity": "♢♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "111",
+    "name": "Skarmory",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "112",
+    "name": "Registeel",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "113",
+    "name": "Shieldon",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "114",
+    "name": "Bastiodon",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "115",
+    "name": "Wormadam",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "116",
+    "name": "Bronzor",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "117",
+    "name": "Bronzong",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "118",
+    "name": "Probopass",
+    "rarity": "♢♢"
+  },
+  {
+    "id": "119",
+    "name": "Dialga EX",
+    "rarity": "♢♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "120",
+    "name": "Heatran",
+    "rarity": "♢♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "121",
+    "name": "Gible",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "122",
+    "name": "Gabite",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "123",
+    "name": "Garchomp",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "124",
+    "name": "Lickitung",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "125",
+    "name": "Lickilicky EX",
+    "rarity": "♢♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "126",
+    "name": "Eevee",
+    "rarity": "♢"
+  },
+  {
+    "id": "127",
+    "name": "Porygon",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "128",
+    "name": "Porygon2",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "129",
+    "name": "Porygon-Z",
+    "rarity": "♢♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "130",
+    "name": "Aipom",
+    "rarity": "♢"
+  },
+  {
+    "id": "131",
+    "name": "Ambipom",
+    "rarity": "♢"
+  },
+  {
+    "id": "132",
+    "name": "Starly",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "133",
+    "name": "Staravia",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "134",
+    "name": "Staraptor",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "135",
+    "name": "Bidoof",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "136",
+    "name": "Bibarel",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "137",
+    "name": "Buneary",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "138",
+    "name": "Lopunny",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "139",
+    "name": "Glameow",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "140",
+    "name": "Purugly",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "141",
+    "name": "Chatot",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "142",
+    "name": "Fan Rotom",
+    "rarity": "♢"
+  },
+  {
+    "id": "143",
+    "name": "Regigigas",
+    "rarity": "♢♢♢"
+  },
+  {
+    "id": "144",
+    "name": "Skull Fossil",
+    "rarity": "♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "145",
+    "name": "Armor Fossil",
+    "rarity": "♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "146",
+    "name": "Pokemon Communication",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "147",
+    "name": "Giant Cape",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "148",
+    "name": "Rocky Helmet",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "149",
+    "name": "Lum Berry",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "150",
+    "name": "Cyrus",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "151",
+    "name": "Team Galactic Grunt",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "152",
+    "name": "Cynthia",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "153",
+    "name": "Volkner",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "154",
+    "name": "Dawn",
+    "rarity": "♢♢",
+    "packId": "dialga"
+  },
+  {
+    "id": "155",
+    "name": "Mars",
+    "rarity": "♢♢",
+    "packId": "palkia"
+  },
+  {
+    "id": "156",
+    "name": "Tangrowth",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "157",
+    "name": "Combee",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "158",
+    "name": "Carnivine",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "159",
+    "name": "Shaymin",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "160",
+    "name": "Mamoswine",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "161",
+    "name": "Gastrodon",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "162",
+    "name": "Manaphy",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "163",
+    "name": "Shinx",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "164",
+    "name": "Rotom",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "165",
+    "name": "Drifloon",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "166",
+    "name": "Mesprit",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "167",
+    "name": "Giratina",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "168",
+    "name": "Cresselia",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "169",
+    "name": "Rhyperior",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "170",
+    "name": "Lucario",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "171",
+    "name": "Hippopotas",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "172",
+    "name": "Spiritomb",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "173",
+    "name": "Croagunk",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "174",
+    "name": "Heatran",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "175",
+    "name": "Garchomp",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "176",
+    "name": "Staraptor",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "177",
+    "name": "Bidoof",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "178",
+    "name": "Glameow",
+    "rarity": "☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "179",
+    "name": "Regigigas",
+    "rarity": "☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "180",
+    "name": "Yanmega EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "181",
+    "name": "Infernape EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "182",
+    "name": "Palkia EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "183",
+    "name": "Pachirisu EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "184",
+    "name": "Mismagius EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "185",
+    "name": "Gallade EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "186",
+    "name": "Weavile EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "187",
+    "name": "Darkrai EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "188",
+    "name": "Dialga EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "189",
+    "name": "Lickilicky EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "190",
+    "name": "Cyrus",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "191",
+    "name": "Team Galactic Grunt",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "192",
+    "name": "Cynthia",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "193",
+    "name": "Volkner",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "194",
+    "name": "Dawn",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "195",
+    "name": "Mars",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "196",
+    "name": "Yanmega EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "197",
+    "name": "Infernape EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "198",
+    "name": "Pachirisu EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "199",
+    "name": "Mismagius EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "200",
+    "name": "Gallade EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "201",
+    "name": "Weavile EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "202",
+    "name": "Darkrai EX",
+    "rarity": "☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "203",
+    "name": "Lickilicky EX",
+    "rarity": "☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "204",
+    "name": "Palkia EX",
+    "rarity": "☆☆☆",
+    "packId": "palkia"
+  },
+  {
+    "id": "205",
+    "name": "Dialga EX",
+    "rarity": "☆☆☆",
+    "packId": "dialga"
+  },
+  {
+    "id": "206",
+    "name": "Palkia EX",
+    "rarity": "♛"
+  },
+  {
+    "id": "207",
+    "name": "Dialga EX",
+    "rarity": "♛"
+  }
+]

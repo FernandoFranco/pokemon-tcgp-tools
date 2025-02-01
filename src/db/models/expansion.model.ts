@@ -1,4 +1,4 @@
-export interface DataPack {
+export interface Expansion {
   id: string;
   name: string;
 }
