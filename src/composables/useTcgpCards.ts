@@ -13,6 +13,6 @@ export function useTcgpCards() {
 
   return {
     loading,
-    expansions: cards,
+    cards,
   };
 }

@@ -15,13 +15,33 @@
               v-bind="props"
               :elevation="isHovering ? 10 : 2"
               :to="`/expansion/${expansion.id}`"
-              rounded="pill"
             >
               <VImg
                 :src="`${baseUrl}/images/expansions/${expansion.id}.png`"
-                class="ma-4"
-                max-height="64"
+                class="mt-4"
+                max-height="48"
               />
+
+              <VChip
+                size="x-small"
+                class="position-absolute top-0 right-0 ma-4"
+              >
+                {{ getMyCardsByExpansionId(expansion.id).length }}
+                /
+                {{ getCardsByExpansionId(expansion.id).length }}
+              </VChip>
+
+              <VCardText>
+                <VProgressLinear
+                  :model-value="
+                    getMyCardsByExpansionId(expansion.id).length ?? 0
+                  "
+                  :max="getCardsByExpansionId(expansion.id).length ?? 100"
+                  color="primary"
+                  rounded
+                  stream
+                />
+              </VCardText>
             </VCard>
           </VHover>
         </VCol>
@@ -32,9 +52,24 @@
 
 <script setup lang="ts">
 import { useBaseUrl } from "@/composables/useBaseUrl";
+import { useTcgpCards } from "@/composables/useTcgpCards";
 import { useTcgpExpansions } from "@/composables/useTcgpExpansions";
+import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
 import { VCardText } from "vuetify/components";
 
 const baseUrl = useBaseUrl();
 const { expansions } = useTcgpExpansions();
+
+const { myCards } = useTcgpMyCards();
+const { cards } = useTcgpCards();
+
+function getCardsByExpansionId(expansionId: string) {
+  return cards.value?.filter((card) => card.expansionId === expansionId) ?? [];
+}
+
+function getMyCardsByExpansionId(expansionId: string) {
+  return getCardsByExpansionId(expansionId).filter((card) =>
+    myCards.value.includes(card.id)
+  );
+}
 </script>
