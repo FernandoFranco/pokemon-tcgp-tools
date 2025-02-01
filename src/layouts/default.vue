@@ -1,7 +1,7 @@
 <template>
   <VAppBar app>
     <VToolbarTitle class="text-center">
-      <a href="/">
+      <a :href="`${baseUrl}/`">
         <VImg src="@/assets/logo.png" height="64" />
       </a>
     </VToolbarTitle>
@@ -13,5 +13,7 @@
 </template>
 
 <script lang="ts" setup>
-//
+import { useBaseUrl } from "@/composables/useBaseUrl";
+
+const baseUrl = useBaseUrl();
 </script>
