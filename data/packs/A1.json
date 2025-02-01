@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mewtwo",
+    "name": "Mewtwo",
+    "color": "#691ad9"
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "color": "#f2d22e"
+  },
+  {
+    "id": "charizard",
+    "name": "Charizard",
+    "color": "#f27507"
+  }
+]
