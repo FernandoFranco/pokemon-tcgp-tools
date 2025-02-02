@@ -1,4 +1,5 @@
 // Plugins
+import basicSsl from "@vitejs/plugin-basic-ssl";
 import Vue from "@vitejs/plugin-vue";
 import AutoImport from "unplugin-auto-import/vite";
 import Fonts from "unplugin-fonts/vite";
@@ -8,20 +9,36 @@ import Layouts from "vite-plugin-vue-layouts";
 import Vuetify, { transformAssetUrls } from "vite-plugin-vuetify";
 
 // Utilities
+import path from "node:path";
 import { fileURLToPath, URL } from "node:url";
 import { defineConfig } from "vite";
 
-let base = process.env.VITE_BASE_URL;
-if (base && !base.startsWith("/")) {
-  base = "/" + base;
+function getBase() {
+  let base = process.env.VITE_BASE_URL;
+  if (base && !base.startsWith("/")) {
+    base = "/" + base;
+  }
+  if (base && !base.endsWith("/")) {
+    base += "/";
+  }
+  return base;
 }
-if (base && !base.endsWith("/")) {
-  base += "/";
+
+function getBasicSslPlugin() {
+  if (process.env.NODE_ENV === "production") {
+    return null;
+  }
+
+  return basicSsl({
+    name: "localhost",
+    domains: ["localhost"],
+    certDir: path.resolve(__dirname, ".cert"),
+  });
 }
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base,
+  base: getBase(),
   build: {
     rollupOptions: {
       input: {
@@ -31,6 +48,7 @@ export default defineConfig({
     },
   },
   plugins: [
+    getBasicSslPlugin(),
     VueRouter({
       dts: "src/typed-router.d.ts",
     }),
@@ -71,7 +89,7 @@ export default defineConfig({
         ],
       },
     }),
-  ],
+  ].filter(Boolean),
   define: { "process.env": {} },
   resolve: {
     alias: {

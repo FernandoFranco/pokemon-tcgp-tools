@@ -96,10 +96,12 @@
 
 <script setup lang="ts">
 import { useBaseUrl } from "@/composables/useBaseUrl";
-import { useTcgpCardsByExpansionId } from "@/composables/useTcgpCardsByExpansionId";
-import { useTcgpExpansionById } from "@/composables/useTcgpExpansionById";
+import {
+  useTcgpCardsByExpansionId,
+  useTcgpExpansionById,
+  useTcgpPacksByExpansionId,
+} from "@/composables/useTcgpData";
 import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
-import { useTcgpPacksByExpansionId } from "@/composables/useTcgpPacksByExpansionId";
 import type { Pack } from "@/db/models/pack.model";
 import { useRoute } from "vue-router";
 import { VChip } from "vuetify/components";

@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts" setup>
-import { useTcgpExpansions } from "@/composables/useTcgpExpansions";
+import { useTcgpExpansions } from "@/composables/useTcgpData";
 
 const { expansions } = useTcgpExpansions();
 </script>

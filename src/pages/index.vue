@@ -52,8 +52,7 @@
 
 <script setup lang="ts">
 import { useBaseUrl } from "@/composables/useBaseUrl";
-import { useTcgpCards } from "@/composables/useTcgpCards";
-import { useTcgpExpansions } from "@/composables/useTcgpExpansions";
+import { useTcgpCards, useTcgpExpansions } from "@/composables/useTcgpData";
 import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
 import { VCardText } from "vuetify/components";
 
