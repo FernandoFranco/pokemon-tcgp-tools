@@ -1,20 +1,12 @@
+import { DRIVE_SCOPE } from "@/services/googleDriveService";
 import { useAuthStore, type GoogleUser } from "@/stores/auth";
 import { parseJwt } from "@/utils/jwt.utils";
-import { loadExternalScript } from "@/utils/script.utils";
+import { useGoogleScript } from "./useGoogleScript";
 
-const googleScriptLoaded = ref<boolean>(false);
-
-export async function loadGoogleScript(): Promise<void> {
-  if (googleScriptLoaded.value) return;
-
-  await loadExternalScript({
-    url: "https://accounts.google.com/gsi/client",
-    id: "google-js",
-  });
-  googleScriptLoaded.value = true;
-}
+const hasInitialized = ref<boolean>(false);
 
 export function useGoogleAuth() {
+  const { loadGoogleScript } = useGoogleScript();
   const store = useAuthStore();
 
   async function signIn() {
@@ -25,8 +17,14 @@ export function useGoogleAuth() {
       return;
     }
 
+    if (hasInitialized.value) {
+      console.info("Google auth already initialized");
+      return;
+    }
+
     window.google.accounts.id.initialize({
       client_id: import.meta.env.VITE_GOOGLE_CLIENT_ID as string,
+      scope: DRIVE_SCOPE,
       auto_select: true,
       callback: async (response: { credential?: string }) => {
         if (!response.credential) return;
@@ -64,25 +62,4 @@ export function useGoogleAuth() {
   }
 
   return { signIn, signOut, renderButton };
-}
-
-declare global {
-  interface Window {
-    google: {
-      accounts: {
-        id: {
-          initialize: (config: {
-            client_id: string;
-            auto_select: boolean;
-            callback: (response: { credential?: string }) => void;
-          }) => void;
-          prompt: () => void;
-          renderButton: (
-            element: HTMLElement,
-            options: { theme: string; size: string; shape: string }
-          ) => void;
-        };
-      };
-    };
-  }
 }

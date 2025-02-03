@@ -21,5 +21,6 @@ declare module 'vue-router/auto-routes' {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/expansion/[expansion]': RouteRecordInfo<'/expansion/[expansion]', '/expansion/:expansion', { expansion: ParamValue<true> }, { expansion: ParamValue<false> }>,
     '/expansions': RouteRecordInfo<'/expansions', '/expansions', Record<never, never>, Record<never, never>>,
+    '/settings': RouteRecordInfo<'/settings', '/settings', Record<never, never>, Record<never, never>>,
   }
 }

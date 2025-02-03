@@ -1,9 +1,9 @@
 <template>
   <VAppBar app>
     <template #title>
-      <a :href="`${baseUrl}/`">
+      <RouterLink to="/">
         <VImg src="@/assets/logo.png" width="64" />
-      </a>
+      </RouterLink>
     </template>
 
     <template #append>
@@ -12,11 +12,7 @@
   </VAppBar>
 </template>
 
-<script lang="ts" setup>
-import { useBaseUrl } from "@/composables/useBaseUrl";
-
-const baseUrl = useBaseUrl();
-</script>
+<script lang="ts" setup></script>
 
 <style lang="scss" scoped>
 .v-toolbar-title {

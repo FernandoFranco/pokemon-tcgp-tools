@@ -9,6 +9,7 @@
     </template>
 
     <VList>
+      <VListItem to="/settings" title="Settings" />
       <VListItem @click="handleSignOut" title="Logout" />
     </VList>
   </VMenu>
@@ -31,6 +32,7 @@ onMounted(async () => {
 
 function handleSignOut() {
   signOut();
+
   nextTick(() => {
     renderButton("googleButton");
   });

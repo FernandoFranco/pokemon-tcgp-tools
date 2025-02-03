@@ -65,7 +65,7 @@
     </VCard>
 
     <VDataTableVirtual
-      v-model="myCards"
+      v-model="data.cards"
       :headers="tableHeaders"
       :items="cards"
       :item-value="(card) => card.id"
@@ -101,7 +101,7 @@ import {
   useTcgpExpansionById,
   useTcgpPacksByExpansionId,
 } from "@/composables/useTcgpData";
-import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
+import { useUserData } from "@/composables/useUserData";
 import type { Pack } from "@/db/models/pack.model";
 import { useRoute } from "vue-router";
 import { VChip } from "vuetify/components";
@@ -127,10 +127,10 @@ const route = useRoute<"/expansion/[expansion]">();
 const { expansion } = useTcgpExpansionById(route.params.expansion);
 const { packs } = useTcgpPacksByExpansionId(route.params.expansion);
 const { cards } = useTcgpCardsByExpansionId(route.params.expansion);
-const { myCards } = useTcgpMyCards();
+const { data } = useUserData();
 
 const myTotalCardsFromExpansion = computed(
-  () => cards.value.filter((card) => myCards.value.includes(card.id)).length
+  () => cards.value.filter((card) => data.value.cards.includes(card.id)).length
 );
 
 const tableHeaders = computed(() => {
@@ -169,7 +169,7 @@ function getPackName(id?: string) {
 
 function getMyCardsByPackId(packId: string) {
   return cards.value.filter(
-    (card) => card.packId === packId && myCards.value.includes(card.id)
+    (card) => card.packId === packId && data.value.cards.includes(card.id)
   );
 }
 

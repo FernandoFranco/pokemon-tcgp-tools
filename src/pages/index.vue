@@ -53,13 +53,13 @@
 <script setup lang="ts">
 import { useBaseUrl } from "@/composables/useBaseUrl";
 import { useTcgpCards, useTcgpExpansions } from "@/composables/useTcgpData";
-import { useTcgpMyCards } from "@/composables/useTcgpMyCards";
+import { useUserData } from "@/composables/useUserData";
 import { VCardText } from "vuetify/components";
 
 const baseUrl = useBaseUrl();
 const { expansions } = useTcgpExpansions();
 
-const { myCards } = useTcgpMyCards();
+const { data } = useUserData();
 const { cards } = useTcgpCards();
 
 function getCardsByExpansionId(expansionId: string) {
@@ -68,7 +68,7 @@ function getCardsByExpansionId(expansionId: string) {
 
 function getMyCardsByExpansionId(expansionId: string) {
   return getCardsByExpansionId(expansionId).filter((card) =>
-    myCards.value.includes(card.id)
+    data.value.cards.includes(card.id)
   );
 }
 </script>
