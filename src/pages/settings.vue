@@ -19,13 +19,15 @@
 import { useBrowserJsonFile } from "@/composables/useBrowserJsonFile";
 import { useSnackbar } from "@/composables/useSnackbar";
 import { useUserData, type UserData } from "@/composables/useUserData";
+import { db } from "@/db";
 
 const snackbar = useSnackbar();
 const { data, clearData } = useUserData();
 const { exportFile, importFile } = useBrowserJsonFile();
 
-function clear() {
-  clearData();
+async function clear() {
+  await clearData();
+  await db.delete();
 }
 
 function exportData() {
